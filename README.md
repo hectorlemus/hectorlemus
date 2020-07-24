@@ -2,8 +2,10 @@
 
 ---
 
+<p style='text-align: justify;'>
 Soy desarrollador de software independiente, apasionado por mi trabajo, me gusta aprender de nuevas tecnologías, metodologías de trabajo, así mismo, estoy en la mayor disposición del trabajo en equipo. 
 Me gusta la idea de "Clean Code" y el Mínimo producto viable.
+</p>
 
 Me gusta la música :notes:, el café :coffee: y el futbol :soccer:.
 
